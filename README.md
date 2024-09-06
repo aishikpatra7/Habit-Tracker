@@ -39,18 +39,3 @@ A sleek and intuitive Habit Tracker App built with Flutter, designed to help you
    ```bash
    git clone https://github.com/yourusername/habit-tracker-app.git
    cd habit-tracker-app
-
-2. **Install dependencies**
-
-    flutter pub get
-
-3. **Set up Firebase**
-
-    -Create a new project in the Firebase Console.
-    -Enable Email/Password authentication.
-    -Download the google-services.json (for Android) and GoogleService-Info.plist (for iOS) files.
-    -Place them in the respective android/app and ios/Runner directories.
-
-4. **Run the app**
-
-    flutter run
